@@ -6,8 +6,8 @@ index = {"say_hello": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://khursani8.github.io/hellonbdev/"
+doc_url = "https://phantomint95.github.io/hellonbdev/"
 
-git_url = "https://github.com/khursani8/hellonbdev/tree/master/"
+git_url = "https://github.com/phantomint95/hellonbdev/tree/master/"
 
 def custom_doc_links(name): return None
